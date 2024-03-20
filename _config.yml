@@ -261,7 +261,7 @@ tag_archive:
 #   enabled:
 #     - categories
 #     - tags
-#   layouts:
+  layout: single
 #     category: archive-taxonomy
 #     tag: archive-taxonomy
 #   permalinks:
