@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Keystone Korea"
+title                    : "키스톤 코리아"
 title_separator          : "|"
 subtitle                 : "키스톤코리아 블로그입니다."# site tagline that appears below site title in masthead
-name                     : "Keystone"
+name                     : "키스톤"
 description              : "키스톤 코리아의 블로그 입니다. 정보 자료가 업데이트 됩니다."
 url                      : "https://keyst-one.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
