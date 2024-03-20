@@ -208,7 +208,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: wide
       author_profile: true
       read_time: true
       comments: true
@@ -226,7 +226,7 @@ defaults:
       path: ""
       type: docs
     values:
-      layout: single
+      layout: splash
       read_time: false
       author_profile: false
       share: false
